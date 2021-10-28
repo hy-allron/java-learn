@@ -1,4 +1,4 @@
-package com.allron.javalearn.算法.每日一题;
+package com.allron.javalearn.算法.csdn每日一题;
 
 /**
  * 描述：30天中，从第一天开始五天学习，一天休息、一天锻炼，输出每天是应该学习还是休息还是锻炼 <br>

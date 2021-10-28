@@ -1,4 +1,4 @@
-package com.allron.javalearn.算法.每日一题;
+package com.allron.javalearn.算法.csdn每日一题;
 
 /**
  * 描述：用 0到9 生成 十位数的所有排列组合，数字0不能在第一个，这个生成的十位数，不能有重复的数字。 <br>
