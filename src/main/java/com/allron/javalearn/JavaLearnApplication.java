@@ -30,7 +30,7 @@ public class JavaLearnApplication {
 
         //ApplicationContext applicationContext = new ClassPathXmlApplicationContext("");
 
-        log.info("test push！");
+        log.info("test push1！");
         return "hello worldabc";
     }
 
